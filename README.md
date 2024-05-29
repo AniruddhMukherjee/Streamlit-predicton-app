@@ -36,6 +36,6 @@ Train the model using techniques like linear regression, time series analysis, o
 Display the predicted stock prices in the dashboard, along with visualizations to help users understand the forecasts.
 
 ### *Usage:*
-Install dependencies: pip install -r requirements.txt
+Install dependencies: pip install -r requirements.txt </br>
 Run the Streamlit app: streamlit run app.py
 
