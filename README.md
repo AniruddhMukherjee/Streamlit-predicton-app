@@ -11,7 +11,7 @@ Streamlit simplifies the development of interactive web applications for data sc
 ### *yfinance*
 Plotly Express is a high-level data visualization library for Python that provides a simple and intuitive interface for creating a variety of interactive and customizable plots, including scatter plots, line charts, bar charts, histograms, and more. It is built on top of the Plotly.js library and offers a wide range of features for data exploration and presentation.
 
-### *PLotly.express*
+### *plotly.express*
 The alpha_vantage Python library is a comprehensive API for retrieving real-time and historical financial data from the Alpha Vantage platform. It supports a wide range of financial instruments, including stocks, currencies, cryptocurrencies, and more, and provides a user-friendly interface for accessing and analyzing this data.
 
 ### *alpha_vantage*
@@ -38,3 +38,4 @@ Display the predicted stock prices in the dashboard, along with visualizations t
 ### *Usage:*
 Install dependencies: pip install -r requirements.txt
 Run the Streamlit app: streamlit run app.py
+
